@@ -1,0 +1,2 @@
+BestModel,MSE,RMSE,R2,n_estimators,max_depth,min_samples_split
+RandomForest (tuned),557518657.0742289,23611.8329884452,0.9153787409115881,100,,2
